@@ -5,13 +5,4 @@ using UnityEngine;
 public class AudioPlayer : MonoBehaviour
 {
 
-    void Start()
-    {
-        
-    }
-
-    void Update()
-    {
-        
-    }
 }
